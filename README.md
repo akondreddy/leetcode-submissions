@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/akondreddy/leetcode-submissions/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/akondreddy/leetcode-submissions/tree/master/0014-longest-common-prefix) |
 | [0088-merge-sorted-array](https://github.com/akondreddy/leetcode-submissions/tree/master/0088-merge-sorted-array) |
 ## Two Pointers
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/akondreddy/leetcode-submissions/tree/master/0014-longest-common-prefix) |
 | [0205-isomorphic-strings](https://github.com/akondreddy/leetcode-submissions/tree/master/0205-isomorphic-strings) |
 ## Math
 |  |
@@ -34,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/akondreddy/leetcode-submissions/tree/master/0069-sqrtx) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/akondreddy/leetcode-submissions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
