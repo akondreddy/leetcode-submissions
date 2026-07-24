@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/akondreddy/leetcode-submissions/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/akondreddy/leetcode-submissions/tree/master/0088-merge-sorted-array) |
 ## Two Pointers
 |  |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/akondreddy/leetcode-submissions/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/akondreddy/leetcode-submissions/tree/master/0205-isomorphic-strings) |
 ## String
 |  |
