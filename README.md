@@ -21,11 +21,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/akondreddy/leetcode-submissions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/akondreddy/leetcode-submissions/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/akondreddy/leetcode-submissions/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/akondreddy/leetcode-submissions/tree/master/0383-ransom-note) |
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/akondreddy/leetcode-submissions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/akondreddy/leetcode-submissions/tree/master/0014-longest-common-prefix) |
 | [0205-isomorphic-strings](https://github.com/akondreddy/leetcode-submissions/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/akondreddy/leetcode-submissions/tree/master/0383-ransom-note) |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/akondreddy/leetcode-submissions/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/akondreddy/leetcode-submissions/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/akondreddy/leetcode-submissions/tree/master/0069-sqrtx) |
 ## Binary Search
 |  |
