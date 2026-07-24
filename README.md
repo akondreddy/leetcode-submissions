@@ -23,4 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/akondreddy/leetcode-submissions/tree/master/0205-isomorphic-strings) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/akondreddy/leetcode-submissions/tree/master/0069-sqrtx) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/akondreddy/leetcode-submissions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
