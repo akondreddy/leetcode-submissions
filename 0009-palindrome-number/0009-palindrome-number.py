@@ -3,13 +3,14 @@ class Solution(object):
         # Idea: Build the number in reverse
         # then check if the numbers equal each other
 
+        # Negative
+        if x < 0: 
+            return False
+
         original = x
         reverse = 0
         while original > 0:
-            digit = original % 10
-            reverse = reverse * 10 + digit
+            reverse = (reverse * 10) + (original % 10)
             original = original / 10
-        if reverse == x:
-            return True
-        return False
+        return reverse == x
         
