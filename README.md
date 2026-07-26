@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/akondreddy/leetcode-submissions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/akondreddy/leetcode-submissions/tree/master/0014-longest-common-prefix) |
 | [0088-merge-sorted-array](https://github.com/akondreddy/leetcode-submissions/tree/master/0088-merge-sorted-array) |
+| [0228-summary-ranges](https://github.com/akondreddy/leetcode-submissions/tree/master/0228-summary-ranges) |
 ## Two Pointers
 |  |
 | ------- |
