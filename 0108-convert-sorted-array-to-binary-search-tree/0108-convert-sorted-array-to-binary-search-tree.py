@@ -6,17 +6,27 @@
 #         self.right = right
 class Solution(object):
     def sortedArrayToBST(self, nums):
-        if not nums:
-            return None
+        # Recursive helper function.
+        # In scenario of empty nums, left > right, 0 > -1,
+        # so return None.
+        def build(left, right):
+            if left > right:
+                return None
+            
+            # Get middle value of nums
+            middle = (left + right) // 2
+            root = TreeNode(nums[middle])
+
+            # From middle, determine the left subtree by 
+            # starting from left up until before middle
+            root.left = build(left, middle - 1)
+            # Determine the right subtree by starting from 
+            # right after middle until the end of array
+            root.right = build(middle + 1, right)
+
+            return root
         
-        # Start from the middle, list is already sorted,
-        # just build the tree from there
-        length = len(nums)
-        middle = length // 2
-        root = TreeNode(nums[middle])
-        root.left = self.sortedArrayToBST(nums[:middle])
-        root.right = self.sortedArrayToBST(nums[middle + 1:])
-        return root
+        return build(0, len(nums) - 1)
 
         
         
