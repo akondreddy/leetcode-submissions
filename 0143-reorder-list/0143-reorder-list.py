@@ -5,26 +5,28 @@
 #         self.next = next
 class Solution(object):
     def reorderList(self, head):
-        # Brute force solution, add all items to list first
-        lst = []
-        current = head
-        while current:
-            lst.append(current)
-            current = current.next
-        length = len(lst)
+        # Slow and fast pointers, 1 step and 2 step respectively
+        slow, fast = head, head.next
+        while fast and fast.next:
+            slow = slow.next
+            fast = fast.next.next
+
+        # Fast reaches end, slow is at midpoint.
+        # Now, we have to reverse the second half of the list
+        second = slow.next
+        prev = slow.next = None
+        while second:
+            temp = second.next
+            second.next = prev
+            prev = second
+            second = temp
+
+        # Finally, merge the two lists
+        first, second = head, prev
+        while second:
+            temp1, temp2 = first.next, second.next
+            first.next = second
+            second.next = temp1
+            first, second = temp1, temp2
         
-        # Now, we have a list of all the nodes
-        # From here, use two pointers
-        start = 1
-        end = length - 1
-        current = head
-        while start <= end:
-            current.next = lst[end]
-            current = current.next
-            if start != end:
-                current.next = lst[start]
-                current = current.next
-            start += 1
-            end -= 1
-        current.next = None
         
