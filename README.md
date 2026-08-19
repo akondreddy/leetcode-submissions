@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akondreddy/leetcode-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/akondreddy/leetcode-submissions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/akondreddy/leetcode-submissions/tree/master/0125-valid-palindrome) |
+| [0143-reorder-list](https://github.com/akondreddy/leetcode-submissions/tree/master/0143-reorder-list) |
 ## Sorting
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/akondreddy/leetcode-submissions/tree/master/0020-valid-parentheses) |
+| [0143-reorder-list](https://github.com/akondreddy/leetcode-submissions/tree/master/0143-reorder-list) |
 ## String Matching
 |  |
 | ------- |
@@ -101,4 +103,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/akondreddy/leetcode-submissions/tree/master/0050-powx-n) |
+| [0143-reorder-list](https://github.com/akondreddy/leetcode-submissions/tree/master/0143-reorder-list) |
+## Linked List
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/akondreddy/leetcode-submissions/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
