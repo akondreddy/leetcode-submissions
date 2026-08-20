@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/akondreddy/leetcode-submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0162-find-peak-element](https://github.com/akondreddy/leetcode-submissions/tree/master/0162-find-peak-element) |
 | [0228-summary-ranges](https://github.com/akondreddy/leetcode-submissions/tree/master/0228-summary-ranges) |
+| [0287-find-the-duplicate-number](https://github.com/akondreddy/leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/akondreddy/leetcode-submissions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/akondreddy/leetcode-submissions/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/akondreddy/leetcode-submissions/tree/master/0143-reorder-list) |
+| [0287-find-the-duplicate-number](https://github.com/akondreddy/leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/akondreddy/leetcode-submissions/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/akondreddy/leetcode-submissions/tree/master/0162-find-peak-element) |
+| [0287-find-the-duplicate-number](https://github.com/akondreddy/leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 ## Trie
 |  |
 | ------- |
@@ -95,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/akondreddy/leetcode-submissions/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/akondreddy/leetcode-submissions/tree/master/0191-number-of-1-bits) |
+| [0287-find-the-duplicate-number](https://github.com/akondreddy/leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 ## Simulation
 |  |
 | ------- |
@@ -110,4 +114,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/akondreddy/leetcode-submissions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/akondreddy/leetcode-submissions/tree/master/0206-reverse-linked-list) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/akondreddy/leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/akondreddy/leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
