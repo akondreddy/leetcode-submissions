@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/akondreddy/leetcode-submissions/tree/master/0162-find-peak-element) |
 | [0228-summary-ranges](https://github.com/akondreddy/leetcode-submissions/tree/master/0228-summary-ranges) |
 | [0287-find-the-duplicate-number](https://github.com/akondreddy/leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
+| [0747-min-cost-climbing-stairs](https://github.com/akondreddy/leetcode-submissions/tree/master/0747-min-cost-climbing-stairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -122,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/akondreddy/leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0747-min-cost-climbing-stairs](https://github.com/akondreddy/leetcode-submissions/tree/master/0747-min-cost-climbing-stairs) |
 <!---LeetCode Topics End-->
