@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/akondreddy/leetcode-submissions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akondreddy/leetcode-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/akondreddy/leetcode-submissions/tree/master/0067-add-binary) |
+| [0072-edit-distance](https://github.com/akondreddy/leetcode-submissions/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/akondreddy/leetcode-submissions/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/akondreddy/leetcode-submissions/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/akondreddy/leetcode-submissions/tree/master/0383-ransom-note) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/akondreddy/leetcode-submissions/tree/master/0072-edit-distance) |
 | [0647-palindromic-substrings](https://github.com/akondreddy/leetcode-submissions/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/akondreddy/leetcode-submissions/tree/master/0747-min-cost-climbing-stairs) |
 <!---LeetCode Topics End-->
