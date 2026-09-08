@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/akondreddy/leetcode-submissions/tree/master/0162-find-peak-element) |
 | [0228-summary-ranges](https://github.com/akondreddy/leetcode-submissions/tree/master/0228-summary-ranges) |
 | [0287-find-the-duplicate-number](https://github.com/akondreddy/leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/akondreddy/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0747-min-cost-climbing-stairs](https://github.com/akondreddy/leetcode-submissions/tree/master/0747-min-cost-climbing-stairs) |
 ## Two Pointers
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/akondreddy/leetcode-submissions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/akondreddy/leetcode-submissions/tree/master/0088-merge-sorted-array) |
+| [0347-top-k-frequent-elements](https://github.com/akondreddy/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/akondreddy/leetcode-submissions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/akondreddy/leetcode-submissions/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/akondreddy/leetcode-submissions/tree/master/0205-isomorphic-strings) |
+| [0347-top-k-frequent-elements](https://github.com/akondreddy/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/akondreddy/leetcode-submissions/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/akondreddy/leetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 ## String
@@ -78,12 +81,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/akondreddy/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/akondreddy/leetcode-submissions/tree/master/0383-ransom-note) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/akondreddy/leetcode-submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0191-number-of-1-bits](https://github.com/akondreddy/leetcode-submissions/tree/master/0191-number-of-1-bits) |
+| [0347-top-k-frequent-elements](https://github.com/akondreddy/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 ## Tree
 |  |
 | ------- |
@@ -172,9 +177,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/akondreddy/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/akondreddy/leetcode-submissions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/akondreddy/leetcode-submissions/tree/master/0789-kth-largest-element-in-a-stream) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/akondreddy/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/akondreddy/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
