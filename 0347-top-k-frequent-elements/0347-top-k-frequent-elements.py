@@ -1,31 +1,25 @@
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
-        # Brute force
-        # Count the frequency of each digit
-        # using a dict
+        # Use a minheap to keep track of only the 
+        # k most frequent items in nums
         frequency = {}
-        mostFrequent = []
         for i in range(len(nums)):
             num = nums[i]
             frequency[num] = frequency.get(num, 0) + 1
         
-        # Now, sort the frequency by value
-        for num, count in frequency.items():
-            # Clever trick in which I can switch
-            # the count and the number in order to 
-            # find the most frequent values
-            mostFrequent.append([count, num])
-        # Reverse the sorted order so the most
-        # frequent are at the start
-        mostFrequent.sort(reverse=True)
+        minHeap = []
 
-        # mostFrequent now contains the frequencies
-        # sorted.
-        amount = k
+        # Push the num onto the heap.
+        # If the length of the heap exceeds k,
+        # pop once to remove the smallest frequency
+        for num, count in frequency.items():
+            heapq.heappush(minHeap, [count, num])
+            if len(minHeap) > k:
+                heapq.heappop(minHeap)
+
         answer = []
-        
-        # Do only the first k most frequent
-        for count, num in mostFrequent[:k]:
-            answer.append(num)
+        while len(minHeap) > 0:
+            answer.append(heapq.heappop(minHeap)[1])
 
         return answer
+            
