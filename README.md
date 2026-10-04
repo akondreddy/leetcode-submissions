@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/akondreddy/leetcode-submissions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/akondreddy/leetcode-submissions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/akondreddy/leetcode-submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0128-longest-consecutive-sequence](https://github.com/akondreddy/leetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/akondreddy/leetcode-submissions/tree/master/0162-find-peak-element) |
 | [0228-summary-ranges](https://github.com/akondreddy/leetcode-submissions/tree/master/0228-summary-ranges) |
 | [0287-find-the-duplicate-number](https://github.com/akondreddy/leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/akondreddy/leetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/akondreddy/leetcode-submissions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/akondreddy/leetcode-submissions/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/akondreddy/leetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/akondreddy/leetcode-submissions/tree/master/0205-isomorphic-strings) |
 | [0347-top-k-frequent-elements](https://github.com/akondreddy/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/akondreddy/leetcode-submissions/tree/master/0383-ransom-note) |
@@ -191,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/akondreddy/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/akondreddy/leetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
