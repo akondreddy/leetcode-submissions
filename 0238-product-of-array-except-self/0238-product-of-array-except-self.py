@@ -1,26 +1,18 @@
 class Solution:
     def productExceptSelf(self, nums: List[int]) -> List[int]:
-        # Use the prefix/suffix method.
-        # Compute all products before the element
-        # and all elements after it
+        # Most optimal solution:
+        # Reuse the result array and build the answer
+        # with two passes instead
 
         length = len(nums)
+        products = [1] * length
 
-        stored = [0] * length
-        prefix = [0] * length
-        suffix = [0] * length
-
-        # Nothing is left of the 0th index
-        prefix[0] = 1
-        # Nothing is right of the last index
-        suffix[length - 1] = 1
-
-        for i in range(1, length):
-            # Compute the new prefix
-            prefix[i] = nums[i - 1] * prefix[i - 1]
-        for i in range(length - 2, -1, -1):
-            # Compute the new suffix, working backwards
-            suffix[i] = nums[i + 1] * suffix[i + 1]
+        prefix = 1
         for i in range(length):
-            stored[i] = prefix[i] * suffix[i]
-        return stored
+            products[i] = prefix
+            prefix *= nums[i]
+        suffix = 1
+        for i in range(length - 1, -1, -1):
+            products[i] *= suffix
+            suffix *= nums[i]
+        return products
