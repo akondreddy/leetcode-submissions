@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/akondreddy/leetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/akondreddy/leetcode-submissions/tree/master/0162-find-peak-element) |
 | [0228-summary-ranges](https://github.com/akondreddy/leetcode-submissions/tree/master/0228-summary-ranges) |
+| [0238-product-of-array-except-self](https://github.com/akondreddy/leetcode-submissions/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/akondreddy/leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/akondreddy/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0747-min-cost-climbing-stairs](https://github.com/akondreddy/leetcode-submissions/tree/master/0747-min-cost-climbing-stairs) |
@@ -199,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/akondreddy/leetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/akondreddy/leetcode-submissions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
