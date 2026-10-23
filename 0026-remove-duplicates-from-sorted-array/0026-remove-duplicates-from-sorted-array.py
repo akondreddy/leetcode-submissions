@@ -1,15 +1,14 @@
-class Solution(object):
-    def removeDuplicates(self, nums):
+class Solution:
+    def removeDuplicates(self, nums: List[int]) -> int:
+        # Already in non-decreasing order
+        hashset = set()
         length = len(nums)
-        k = 1
-        duplicatedNum = nums[0]
-        for i in range(length):
-            currentNum = nums[i]
-            if currentNum != duplicatedNum:
-                nums[k] = currentNum
-                duplicatedNum = currentNum
-                k += 1
-        return k
-
-
-        
+        i = 0
+        while i < length:
+            if nums[i] in hashset:
+                del nums[i]
+                length -= 1
+            else:
+                hashset.add(nums[i])
+                i += 1
+        return length
